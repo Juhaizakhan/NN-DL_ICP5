@@ -19,4 +19,7 @@ Similarly, the accuracy of the model is calculated using the `score` method, and
 The accuracy comparison between Naïve Bayes and Linear SVM is based on the evaluation of both models on the test dataset. The Linear SVM algorithm achieved higher accuracy compared to Naïve Bayes. This is attributed to the SVM's ability to find a more flexible decision boundary and handle outliers more effectively. Additionally, SVMs are less sensitive to the distribution of data and can handle non-linear relationships between features, which could lead to better performance, especially when dealing with complex datasets.
 
 ## Video link 
-[] 
+[https://drive.google.com/file/d/1vEQeDWcqqDpTPttguvbY-UtuEz0UXjSQ/view?usp=sharing] 
+
+JUHAIZA KHAN
+700757258
